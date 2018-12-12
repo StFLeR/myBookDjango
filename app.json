@@ -1,0 +1,15 @@
+{
+  "name": "shcoolDjango",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
