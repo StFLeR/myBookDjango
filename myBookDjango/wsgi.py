@@ -15,6 +15,8 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'myBookDjango.settings')
 
 application = get_wsgi_application()
 """"
+alias python='python3'
+
 python manage.py migrate
 
 mbp495msk:myBookDjango amitreykin$ python manage.py runserver
