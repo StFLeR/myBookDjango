@@ -24,7 +24,7 @@ more-itertools==4.3.0
 namedlist==1.7
 pluggy==0.8.0
 psycopg2==2.7.6.1
-py==1.7.0
+py==1.10.0
 PyHamcrest==1.9.0
 PyJWT==1.7.0
 pymssql==2.1.4
